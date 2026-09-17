@@ -1,92 +1,142 @@
-# 👋 Hi, I'm Saqlain Abbas
+<div align="center">
 
-![Focus](https://img.shields.io/badge/Focus-SOC%20Analysis-blue)
-![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
-![Path](https://img.shields.io/badge/Path-Cybersecurity-red)
-![Domain](https://img.shields.io/badge/Domain-Blue%20Team-navy)
+# Saqlain Abbas
 
-**Aspiring SOC (Security Operations Center) Analyst**
+### Aspiring SOC Analyst — Detecting Threats, One Log at a Time 🛡️
 
-*NETWORKING | LOG ANALYSIS | THREAT DETECTION | INCIDENT RESPONSE*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Log+Analysis+%7C+Threat+Detection;Incident+Response+%7C+SIEM;Building+my+way+into+the+SOC" alt="Typing SVG" />
 
----
+<br>
 
-## 🔹 Profile Overview
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00f7ff&style=flat-square&label=Profile+Views)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-00f7ff?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Blue%20Team-0f1419?style=flat-square&labelColor=00f7ff)
 
-| **Field** | **Details** |
-| :--- | :--- |
-| 👨‍💻 **Name** | **Saqlain Abbas** |
-| 🎯 **Target Role** | **SOC Analyst** |
-| 🧭 **Focus Areas** | **Log Analysis, Threat Detection, Incident Response** |
-| 📚 **Learning Style** | **Hands-on, scenario-based practice** |
-| 🛠️ **Currently Building** | **Security tools & home-lab projects** |
-| ✅ **Status** | **Actively learning & building** |
+</div>
 
----
+<br>
 
-## 📖 About
+## 🧭 About Me
 
-I'm following a structured, hands-on learning path toward a career in cybersecurity, with a specific focus on **SOC operations** — log analysis, threat detection, and incident response.
+```yaml
+role: Aspiring SOC Analyst
+focus: Log Analysis · Threat Detection · Incident Response
+approach: Hands-on, scenario-based learning over theory
+mission: Break into a SOC Analyst role through real, provable skill
+```
 
-This profile documents that journey: notes, practical exercises, and small projects as I progress. I prioritize **practical, scenario-based skills over theory alone**.
+I'm building a structured path into cybersecurity, centered on how a real Security
+Operations Center actually works — reading logs like an analyst, spotting what
+doesn't belong, and responding the way a live incident would demand.
 
----
+This GitHub is my proof of work: notes, home labs, and small tools I build as I go.
 
-## 🧠 Currently Learning
+<br>
 
-| **Area** | **Topics** |
-| :--- | :--- |
-| 🌐 **Networking Fundamentals** | TCP/IP, subnetting, ports and protocols |
-| 💻 **System Internals** | Windows & Linux internals, system and event logs |
-| 📊 **SIEM & Log Analysis** | Splunk, ELK Stack |
-| 🐍 **Security Automation** | Python for automation and log parsing |
+## ⚡ What I'm Learning Right Now
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Tools & Platforms
+**🌐 Networking**
+- TCP/IP fundamentals
+- Subnetting
+- Ports & protocols
 
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![LetsDefend](https://img.shields.io/badge/-LetsDefend-0A66C2?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+**💻 Systems**
+- Windows internals & event logs
+- Linux internals & system logs
 
-| **Category** | **Tool / Platform** |
-| :--- | :--- |
-| 🎯 **Practice Platforms** | TryHackMe, LetsDefend |
-| 📦 **Packet Analysis** | Wireshark |
-| 📊 **SIEM** | Splunk |
+</td>
+<td width="50%" valign="top">
 
----
+**📊 SIEM & Detection**
+- Splunk
+- ELK Stack
+- Log correlation & analysis
 
-## 📂 Featured Projects
+**🐍 Automation**
+- Python for security automation
+- Log parsing scripts
 
-| **Project** | **Description** |
-| :--- | :--- |
-| 🛡️ **Wazuh SOC Home Lab** | End-to-end SIEM deployment, custom detection rules, and automated incident response using Wazuh |
-| 🔐 **File Integrity Checker** | Python tool implementing SHA-256/MD5 based File Integrity Monitoring (FIM) |
+</td>
+</tr>
+</table>
 
-> *(Update this table with links once each project repo is live.)*
+<br>
 
----
+## 🛠️ Tools I Work With
 
-## 🎯 Goal
+<div align="center">
 
-Working toward a **SOC Analyst role**, with an emphasis on practical, scenario-based skills — building detections, investigating alerts, and documenting findings the way a real analyst would.
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![LetsDefend](https://img.shields.io/badge/LetsDefend-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 
-> `Learning → Building → Detecting → Defending`
+</div>
 
----
+<br>
 
-## 📫 Connect
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/⚫_GitHub-Security%20Projects-181717?style=for-the-badge" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### 🛡️ Wazuh SOC Home Lab
+Full SIEM build: Windows + Linux agents, custom detection rule for SSH brute-force, and automated `firewall-drop` Active Response.
+
+`Wazuh` `Detection Engineering` `Incident Response`
+
+**[→ View Repository](https://github.com/YOUR-USERNAME/wazuh-soc-home-lab)**
+
+</td>
+<td width="50%">
+
+### 🔐 File Integrity Checker
+Python tool that hashes files with SHA-256/MD5, baselines them, and flags Unchanged / Modified / Missing states — FIM logic from scratch.
+
+`Python` `Hashing` `FIM`
+
+**[→ View Repository](https://github.com/YOUR-USERNAME/file-integrity-checker)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br>
+
+## 🎯 Where I'm Headed
+
+> Working toward a **SOC Analyst role** — built on evidence, not just certificates. Every project here is something I can walk into an interview and explain, line by line.
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqlain-abbas-a61b59414)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saqlain-Soc)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Deploy → Detect → Investigate → Respond</sub>
+</div>
