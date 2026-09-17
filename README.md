@@ -115,7 +115,7 @@ Python tool that hashes files with SHA-256/MD5, baselines them, and flags Unchan
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Saqlain-Soc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-U&themeSaqlain-Soctokyonight&hide_border=true" height="165"/>
 </div>
 
 <br>
