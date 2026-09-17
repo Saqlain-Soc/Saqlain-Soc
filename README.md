@@ -115,7 +115,7 @@ Python tool that hashes files with SHA-256/MD5, baselines them, and flags Unchan
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Saqlain-Soc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-U&themeSaqlain-Soctokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqlain-Soc&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br>
@@ -130,7 +130,7 @@ Python tool that hashes files with SHA-256/MD5, baselines them, and flags Unchan
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqlain-abbas-a61b59414)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-abbas-a61b59414)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saqlain-Soc)
 
 </div>
