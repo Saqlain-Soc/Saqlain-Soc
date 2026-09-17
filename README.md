@@ -8,7 +8,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00f7ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Saqlain-Soc&color=00f7ff&style=flat-square&label=Profile+Views)
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-00f7ff?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Blue%20Team-0f1419?style=flat-square&labelColor=00f7ff)
 
@@ -93,7 +93,7 @@ Full SIEM build: Windows + Linux agents, custom detection rule for SSH brute-for
 
 `Wazuh` `Detection Engineering` `Incident Response`
 
-**[→ View Repository](https://github.com/YOUR-USERNAME/wazuh-soc-home-lab)**
+**[→ View Repository](https://github.com/Saqlain-Soc/wazuh-soc-home-lab)**
 
 </td>
 <td width="50%">
@@ -103,7 +103,7 @@ Python tool that hashes files with SHA-256/MD5, baselines them, and flags Unchan
 
 `Python` `Hashing` `FIM`
 
-**[→ View Repository](https://github.com/YOUR-USERNAME/file-integrity-checker)**
+**[→ View Repository](https://github.com/Saqlain-Soc/file-integrity-checker)**
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ Python tool that hashes files with SHA-256/MD5, baselines them, and flags Unchan
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saqlain-Soc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
